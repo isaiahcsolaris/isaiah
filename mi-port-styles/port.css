@@ -329,6 +329,7 @@ body{
 .expl a, link{
   color: #ff9102;
   text-decoration: none;
+  pointer-events: none;
 }
 
 .work-name{
